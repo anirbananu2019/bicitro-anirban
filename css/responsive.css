@@ -1,0 +1,404 @@
+@media (min-width: 1200px) {
+    
+/* ============= about_part start (min-width: 1200px) ============= */
+    
+/*
+    #about_part{
+        padding: 50px 0px;
+    }
+
+    #about_part .about_content{
+        background-color: rgba(34, 137, 226, 0.4);
+        padding: 30px 10px;
+    }
+    
+
+    #about_part .about_content h2{
+        font-size: 36px;
+    }
+
+    #about_part .about_content p{
+        line-height: 24px;
+        text-align: center;
+        font-weight: 400;
+        font-size: 18px;
+        padding-left: 100px;
+        padding-right: 100px;
+    }
+*/
+    
+/* ============= about_part end (min-width: 1200px) ============= */
+    
+}
+
+@media (min-width: 992px) and (max-width: 1199px) {
+    
+/* ============= about_part start (min-width: 992px) ============= */
+    
+    #about_part{
+        padding: 50px 0px;
+    }
+
+    #about_part .about_content{
+        background-color: rgba(34, 137, 226, 0.4);
+        padding: 30px 10px;
+    }
+    
+
+    #about_part .about_content h2{
+        font-size: 36px;
+    }
+
+    #about_part .about_content p{
+        line-height: 24px;
+        text-align: center;
+        font-weight: 400;
+        font-size: 18px;
+        padding-left: 100px;
+        padding-right: 100px;
+    }
+    
+/* ============= about_part end (min-width: 992px) ============= */
+    
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+    
+/* ============= navigation_part start (min-width: 768px) ============= */
+    
+    #navigation .navbar-brand img{
+        width: 250px !important;
+    }
+
+    #navigation #navbarSupportedContent{
+        position: absolute;
+        top: 70px;
+        left: 0;
+        width: 100%;
+        background-color: rgba(6, 24, 230, 0.5);
+        z-index: 9;
+    }
+
+    #navigation #navbarSupportedContent ul li {
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+
+    #navigation #navbarSupportedContent ul li a {
+        text-align: center;
+    }
+    
+/* ============= navigation_part end (min-width: 768px) ============= */
+    
+/* ============= banner_part start (min-width: 768px) ============= */
+    
+    #banner_part{
+        padding-bottom: 30px;
+    }
+    
+    .banner_slider h2{
+        margin-top: 50px;
+    }
+    
+    .banner_slider a{
+        margin-bottom: 40px;
+    }
+    
+/* ============= banner_part end (min-width: 768px) ============= */
+    
+/* ============= about_part start (min-width: 768px) ============= */
+    
+    #about_part{
+        padding: 50px 0px;
+    }
+
+    #about_part .about_content{
+        background-color: rgba(34, 137, 226, 0.4);
+        padding: 30px 10px;
+    }
+    
+
+    #about_part .about_content h2{
+        font-size: 30px;
+    }
+
+    #about_part .about_content p{
+        line-height: 24px;
+        text-align: center;
+        font-weight: 400;
+        font-size: 18px;
+    } 
+    
+/* ============= about_part end (min-width: 768px) ============= */
+    
+/* ============= service_part start (min-width: 768px) ============= */
+    
+    .service_card_last {
+        margin-top: 30px;
+    }
+    
+    #service_part {
+        padding-bottom: 40px;
+    }
+    
+/* ============= service_part end (min-width: 768px) ============= */
+    
+/* ============= product_part start (min-width: 768px) ============= */
+    
+    
+    
+/* ============= product_part end (min-width: 768px) ============= */
+    
+/* ============= navigation_part start (min-width: 768px) ============= */
+/* ============= navigation_part end (min-width: 768px) ============= */
+    
+/* ============= navigation_part start (min-width: 768px) ============= */
+/* ============= navigation_part end (min-width: 768px) ============= */
+    
+/* ============= navigation_part start (min-width: 768px) ============= */
+/* ============= navigation_part end (min-width: 768px) ============= */
+    
+/* ============= navigation_part start (min-width: 768px) ============= */
+/* ============= navigation_part end (min-width: 768px) ============= */
+    
+/* ============= navigation_part start (min-width: 768px) ============= */
+/* ============= navigation_part end (min-width: 768px) ============= */
+    
+/* ============= navigation_part start (min-width: 768px) ============= */
+/* ============= navigation_part end (min-width: 768px) ============= */
+    
+}
+
+@media (min-width: 576px) and (max-width: 767px) {
+    
+/* ============= navigation_part start (min-width: 576px) ============= */
+    #navigation .navbar-brand img{
+        width: 180px !important;
+    }
+
+    #navigation #navbarSupportedContent{
+        position: absolute;
+        top: 70px;
+        left: 0;
+        width: 100%;
+        background-color: rgba(6, 24, 230, 0.5);
+        z-index: 9;
+    }
+
+    #navigation #navbarSupportedContent ul li {
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+
+    #navigation #navbarSupportedContent ul li a {
+        text-align: center;
+    }
+    
+/* ============= navigation_part end (min-width: 576px) ============= */
+    
+/* ============= banner_part start (min-width: 576px) ============= */
+
+    #banner_part{
+        padding-bottom: 30px;
+    }
+    
+    .banner_slider h2{
+        margin-top: 50px;
+    }
+    
+    .banner_slider a{
+        margin-bottom: 40px;
+    }
+    
+/* ============= banner_part end (min-width: 576px) ============= */
+    
+/* ============= about_part start (min-width: 576px) ============= */
+    
+    #about_part{
+        padding: 50px 0px;
+    }
+
+    #about_part .about_content{
+        background-color: rgba(34, 137, 226, 0.4);
+        padding: 30px 10px;
+    }
+    
+
+    #about_part .about_content h2{
+        font-size: 24px;
+    }
+
+    #about_part .about_content p{
+        line-height: 22px;
+        text-align: center;
+        font-weight: 400;
+        font-size: 16px;
+    }    
+    
+/* ============= about_part end (min-width: 576px) ============= */
+    
+/* ============= service_part start (min-width: 576px) ============= */
+    
+    #service_part {
+        padding-top: 30px !important;
+        padding-bottom: 40px !important;
+    }
+    
+    .service_head {
+        padding-bottom: 20px !important;
+    }
+    
+    .service_card{
+        margin-bottom: 30px;
+    }
+    
+    .service_card_last{
+        margin-bottom: 0px;
+    }
+    
+/* ============= service_part end (min-width: 576px) ============= */
+    
+/* ============= product_part start (min-width: 576px) ============= */
+    
+    #product_part .product_head h2{
+        padding-bottom: 30px;
+    }
+    
+/* ============= product_part end (min-width: 576px) ============= */
+    
+/* ============= contact_part start (min-width: 576px) ============= */
+    
+    .get_in_touch {
+        margin-top: 0px;
+    }    
+    
+/* ============= contact_part end (min-width: 576x) ============= */
+    
+}
+
+@media (max-width: 575px) {
+    
+/* ============= navigation part start (max-width: 575px) ============= */
+    
+    #navigation .navbar-brand img{
+        width: 180px !important;
+    }
+    
+    #navigation #navbarSupportedContent{
+        position: absolute;
+        top: 70px;
+        left: 0;
+        width: 100%;
+        background-color: rgba(6, 24, 230, 0.5);
+        z-index: 9;
+    }
+    
+    #navigation #navbarSupportedContent ul li {
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+    
+    #navigation #navbarSupportedContent ul li a {
+        text-align: center;
+    }
+    
+/* ============= navigation part end (max-width: 575px) ============= */
+    
+/* ============= banner part start (max-width: 575px) ============= */
+    
+    .banner_slider h2 {
+        margin-top: 50px;
+        margin-bottom: 15px;
+        font-size: 20px;
+        padding-left: 0;
+        text-align: center;
+    }
+    
+    .banner_slider p {
+        font-size: 14px;
+        padding: 10px;
+        font-weight: 700;
+    }
+    
+    .banner_slider a {
+        margin-bottom: 50px;
+        font-size: 18px;
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+    
+/* ============= banner part end (max-width: 575px) ============= */
+    
+/* ============= about part start (max-width: 575px) ============= */
+    
+    #about_part{
+        padding: 50px 0px;
+    }
+
+    #about_part .about_content{
+        background-color: rgba(34, 137, 226, 0.4);
+        padding: 30px 10px;
+    }
+    
+
+    #about_part .about_content h2{
+        font-size: 24px;
+    }
+
+    #about_part .about_content p{
+        line-height: 22px;
+        text-align: center;
+        font-weight: 400;
+        font-size: 16px;
+    }
+    
+/* ============= about part end (max-width: 575px) ============= */
+    
+/* ============= service part start (max-width: 575px) ============= */
+    
+    #service_part {
+        padding-top: 30px !important;
+        padding-bottom: 40px !important;
+    }
+    
+    .service_head {
+        padding-bottom: 20px !important;
+    }
+    
+    .service_card{
+        margin-bottom: 30px;
+    }
+    
+    .service_card_last{
+        margin-bottom: 0px;
+    }
+    
+/* ============= service part end (max-width: 575px) ============= */
+    
+/* ============= product_part start (max-width: 575px) ============= */
+
+    #product_part .product_head h2{
+        padding-bottom: 30px;
+    }
+    
+/* ============= product_part end (max-width: 575px) ============= */
+    
+/* ============= contact_part start (max-width: 575px) ============= */
+    
+    .contact_head img{
+        transform: scale(1);
+        opacity: 0.5;
+        border-radius: 10px;
+    }
+    
+/* ============= contact_part end (max-width: 575px) ============= */
+    
+/* ============= footer_part start (max-width: 575px) ============= */
+    
+    #footer .footer_content h5{
+        font-size: 16px;
+    }
+    
+/* ============= footer_part end (max-width: 575px) ============= */
+    
+}
